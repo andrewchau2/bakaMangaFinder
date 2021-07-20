@@ -1,0 +1,3 @@
+Util that webscraps https://www.mangaupdates.com/index.html
+and provides results as a dictionary of strings
+
